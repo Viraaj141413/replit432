@@ -1,15 +1,9 @@
-SID
-
-SK7ad6da71d3f7bc5fa93737aa721e6934
-Secret
-NW6JwzDIZKYLQX4eoBSy9xC9hOBPYE1r
-
 Account Info
 Account SID
 AC8f3ad7e0fef9b44309ade972cef2034f
 
 Auth Token
-b1f80b3b3e918680c4685964246dbffe
+620299e9003a2d1a528909705f462101
 
 
 Hide
@@ -17,6 +11,10 @@ Always store your token securely to protect your account. Learn more
 
 My Twilio phone number
 +14582273485
+
+You are in a trial account and can only send messages and make calls to verified phone numbers. Learn more about your trial account
+
+Go to account settings
 
 You are in a trial account and can only send messages and make calls to verified phone numbers. Learn more about your trial account
 
